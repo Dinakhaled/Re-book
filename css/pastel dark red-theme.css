@@ -1,0 +1,51 @@
+/* Start pastel dark red Theme */
+
+.navbar-header .navbar-brand span {
+	color: #a03d3d;                                   
+}
+.navbar-inverse .navbar-nav > li.active{
+	background-color: #a03d3d;
+}
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+	background-color: #a03d3d;
+}
+.dropdown-menu > li > a:hover{
+	background-color:#a03d3d;
+}
+.carousel-indicators li {
+	border: 1px solid #a03d3d;
+}
+.carousel-indicators .active {
+	background: #a03d3d;
+}
+.themes-box .color-option {
+	border:4px solid #a03d3d;
+}
+.themes-box .color-option ul li {
+
+	background-color:#a03d3d;
+}
+.themes-box .brush-click {
+	background-color: #a03d3d;
+}
+.about .main {
+	color:#a03d3d; 
+}
+.testimonials .item span {
+	color: #a03d3d;
+}
+.testimonials .carousel-indicators li.active{
+	border: 3px solid #a03d3d;
+}
+.contact-us .btn-danger{
+	background: #a03d3d;
+	border-color: #a02929;
+}
+.contact-us .btn-danger:hover {
+	background:#a02929;
+}
+.footer .copyright span {
+	color: #a03d3d;
+}
+
+/* End pastel dark red Theme */
